@@ -340,6 +340,7 @@ html{
     }
     .service{
         max-width: 500px;
+        margin-bottom: 40px;
     }
     .service .img-service{
         width: 100%;
@@ -374,4 +375,5 @@ html{
         width: 250px;
         object-fit: contain;
     }
+
 }
